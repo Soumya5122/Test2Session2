@@ -1,2 +1,2 @@
-language = "undefined"
-run = ""
+language = "bash"
+run = "gcc -g p3final.c -lm"
